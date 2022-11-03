@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@lnu/eslint-config": "^1.1.6"
+  },
+  "type": "module"
+}
