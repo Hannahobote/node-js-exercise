@@ -1,4 +1,4 @@
-import {person, student1} from './object.js'
+import {person, student1} from '../object.js'
 
 let fruitList = ['kiwi', 'äpple', 'mango', 'apelsin', 'banan', 'ananas']
 fruitList[2] = fruitList[2].concat(' juice')
