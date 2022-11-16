@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "@lnu/eslint-config": "^1.1.6"
+    "@lnu/eslint-config": "^1.1.6",
+    "node-fetch": "^3.3.0"
   },
   "type": "module"
 }
